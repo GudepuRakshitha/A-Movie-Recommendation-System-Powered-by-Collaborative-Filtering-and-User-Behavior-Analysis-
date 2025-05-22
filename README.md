@@ -37,11 +37,7 @@ This project focuses on building a personalized **Movie Recommendation System** 
 
 ---
 
-
-
 To launch the Streamlit demo:
-
-```bash
 pip install streamlit
 streamlit run app.py
 
@@ -55,12 +51,14 @@ streamlit run app.py
 5. Pulp Fiction (1994)
 
 
+## 👩‍💻 Author
 
-🧑‍💻 Author
-Gudepu Rakshitha Reddy
-📧 rakshithareddy1985@gmail.com
-🔗 Hugging Face:https://huggingface.co/GudepuRakshithaReddy
+**Gudepu Rakshitha Reddy**  
+📧 rakshithareddy1985@gmail.com   
+🔗 [Hugging Face Profile](https://huggingface.co/GudepuRakshithaReddy)
 🔗 LinkedIn:https://www.linkedin.com/in/gudepu-rakshitha-reddy-516aa72a9/
+
+
 
 
 
